@@ -19,4 +19,5 @@ users to monitor others, and kick those who weren't behaving.
 <img src="https://github.com/ericsong01/MobChat/blob/master/github_display_photos/launchscreenwhite.jpeg" width=250 align=left><img src="https://github.com/ericsong01/MobChat/blob/master/github_display_photos/chathomewhite.jpeg" width=250 align=left><img src="https://github.com/ericsong01/MobChat/blob/master/github_display_photos/chatwhite.jpeg" width=250 align=left><img src="https://github.com/ericsong01/MobChat/blob/master/github_display_photos/chatlogwhite.jpeg" width=250 align=left><img src="https://github.com/ericsong01/MobChat/blob/master/github_display_photos/calendarwhite.jpeg" width=250>
 
 # Implementation Details
-The UI was built programmatically using Swift. I utilized Firebase database as the backend
+The UI was built programmatically using Swift. I utilized Firebase database as the backend.
+I used the Nudity-ML model provided in this repo: https://github.com/ph1ps/Nudity-CoreML
