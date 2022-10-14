@@ -16,7 +16,7 @@ users to monitor others, and kick those who weren't behaving.
 * ML Nudity moderator
 * Real-time notifications 
 
-<img src="https://github.com/ericsong01/MobChat/blob/main/github_display_photos/launchscreenwhite.jpeg?raw=true" width=250 align=left><img src="https://github.com/ericsong01/MobChat/blob/main/github_display_photos/chathomewhite.jpeg" width=250 align=left><img src="https://github.com/ericsong01/MobChat/blob/main/github_display_photos/chatwhite.jpeg" width=250 align=left><img src="https://github.com/ericsong01/MobChat/blob/main/github_display_photos/chatlogwhite.jpeg" width=250 align=left><img src="https://github.com/ericsong01/MobchatApp/blob/93e991274abeb54c5f0b8e93754660445b5dfec7/github_display_photos/calendarwhite.jpeg" width=250>
+<img src="https://github.com/ericsong01/MobchatApp/blob/54edcdc1213b0b4ca6748ef68688f7464ecaae67/github_display_photos/launchscreenwhite.jpeg" width=250 align=left><img src="https://github.com/ericsong01/MobchatApp/blob/54edcdc1213b0b4ca6748ef68688f7464ecaae67/github_display_photos/chathomewhite.jpeg" width=250 align=left><img src="https://github.com/ericsong01/MobchatApp/blob/54edcdc1213b0b4ca6748ef68688f7464ecaae67/github_display_photos/chatwhite.jpeg" width=250 align=left><img src="https://github.com/ericsong01/MobchatApp/blob/54edcdc1213b0b4ca6748ef68688f7464ecaae67/github_display_photos/chatlogwhite.jpeg" width=250 align=left><img src="https://github.com/ericsong01/MobchatApp/blob/93e991274abeb54c5f0b8e93754660445b5dfec7/github_display_photos/calendarwhite.jpeg" width=250>
 
 # Implementation Details
 The UI was built programmatically using Swift. I utilized Firebase database as the backend.
